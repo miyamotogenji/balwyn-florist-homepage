@@ -1,0 +1,10 @@
+{
+  "name": "balwyn-florist",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Whitehorse Flowers / Balwyn Florist homepage — PDF-faithful static build",
+  "scripts": {
+    "start": "python -m http.server 8765",
+    "serve": "python -m http.server 8765"
+  }
+}

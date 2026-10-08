@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+assets/pages/
+assets/extracted/
+assets/gdrive-file.bin
+assets/whitehorseflower-screenshot.pdf
+assets/products.json
+scripts/__pycache__/
